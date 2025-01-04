@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Victor Souto!
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=VictorGSoutoXP)  
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/VictorGSoutoXP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
 ![GitHub Followers](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)  
 
