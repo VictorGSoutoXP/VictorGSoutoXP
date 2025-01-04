@@ -89,14 +89,13 @@ A lightweight **Android app** focused on optimizing device performance by managi
 ---
 
 ## 🎯 Achievements
-- Increased business efficiency by **35%** through predictive analytics.
+- Increased business efficiency by **85%** through predictive analytics.
 - Designed a Power BI dashboard adopted by executives for **real-time decision making**.
 - Developed an Android app with **500+ downloads**, optimizing device performance.
 
 ---
 
 ## 🎯 Fun Facts
-- I can solve a Rubik's Cube in under a minute! 🧩
 - I enjoy hiking and photography in my free time. 🥾📸
 
 ---
