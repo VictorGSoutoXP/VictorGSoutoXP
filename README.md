@@ -69,8 +69,8 @@ A lightweight **Android app** focused on optimizing device performance by managi
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGSoutoXP&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGSoutoXP&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGSoutoXP&show_icons=true&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGSoutoXP&layout=compact&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN)
 
 ---
 
