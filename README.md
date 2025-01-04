@@ -1,9 +1,97 @@
-Olá e seja bem-vindo ao meu repositório GitHub! Meu nome é Victor Souto, sou estudante de engenharia de Software e estou animado para compartilhar meus projetos e aprendizados com você.
+# 👋 Hello, I'm Victor Souto!
 
-Como estudante de engenharia de Software, estou constantemente buscando novos desafios e maneiras de aprimorar minhas habilidades de programação. Este repositório é uma coleção de projetos que desenvolvi em minha jornada como estudante, desde trabalhos acadêmicos até projetos pessoais.
+## 🧑‍💻 About Me
+I am a **Data Analyst** with a background in **Software Engineering** and **Statistics**, based in Jundiaí, São Paulo. My work focuses on providing actionable insights by analyzing data across multiple business areas, such as **Accounting**, **Finance**, and **Tax**. I help the executive board make informed decisions through dashboards, predictive models, and comprehensive reports.
 
-Você encontrará aqui projetos desenvolvidos em várias linguagens de programação. Estou sempre procurando aprender novas linguagens e tecnologias, então fique à vontade para dar uma olhada nos projetos e me dar feedback ou sugestões.
+Recently, I have been exploring **mobile application development**, combining my expertise in data analysis with innovative technologies to create impactful solutions. My goal is to grow as a **mobile developer**, blending data and technology to solve real-world problems.
 
-Além disso, como estudante de engenharia de Software, tenho interesse em colaborar com outros desenvolvedores e contribuir com projetos de código aberto. Sinta-se à vontade para entrar em contato comigo se estiver interessado em trabalhar juntos em um projeto ou se precisar de ajuda com algum projeto.
+---
 
-Espero que você goste do que encontra aqui e sinta-se livre para seguir-me no GitHub para receber atualizações sobre meus projetos futuros. Obrigado por visitar meu  perfil!
+## 🌟 Key Skills and Expertise
+### Data Analysis & Business Intelligence
+- **Technologies**:  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
+- **What I Do**:
+  - Build **interactive dashboards** and **predictive models** for business forecasting.
+  - Create **data pipelines** to process and transform large datasets.
+  - Collaborate with leadership to guide **data-driven decision making**.
+
+### Application Development
+- **Technologies**:  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **What I’m Working On**:
+  - Developing **mobile apps** to enhance user experiences and optimize workflows.
+  - Integrating **real-time analytics** into mobile solutions.
+  - Exploring advanced UI/UX design for seamless app usability.
+
+---
+
+## 📂 Featured Projects
+### 📊 Business Intelligence Dashboard
+📸 **Screenshot:**
+![Dashboard Screenshot](https://via.placeholder.com/800x400)
+
+🔗 **Link**: [Power BI Dashboard for Business Operations](https://github.com/your-repo-link)  
+An end-to-end BI solution integrating data from Accounting, Finance, and Tax systems to provide real-time KPIs for executives.
+
+---
+
+### 📱 Mobile Application - *Ligeiro*
+📸 **App Preview:**
+![App Demo GIF](https://via.placeholder.com/400x600)
+
+🔗 **Link**: [Ligeiro App Repository](https://github.com/your-repo-link)  
+A lightweight **Android app** focused on optimizing device performance by managing memory, clearing cache, and enhancing app permissions.
+
+---
+
+## 🏆 Certifications
+- [Microsoft Certified: Data Analyst Associate](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+- Google Data Analytics Professional Certificate
+- AWS Certified Cloud Practitioner
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Certified-blue?style=flat-square)
+![Google](https://img.shields.io/badge/Google-Data_Analytics-blue?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat-square)
+
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGSoutoXP&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGSoutoXP&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- **Advanced Data Analytics**: Machine Learning, Predictive Modeling.
+- **Mobile Development**: Kotlin, React Native.
+- **Cloud Technologies**: Azure, AWS for scalable data solutions.
+
+---
+
+## 🎯 Future Goals
+- Build a **cross-platform app** that integrates real-time data analytics.
+- Specialize in **Machine Learning** for predictive analytics.
+- Contribute to **open-source projects** in data engineering and app development.
+
+---
+
+## 🎯 Achievements
+- Increased business efficiency by **85%** through predictive analytics.
+- Designed a Power BI dashboard adopted by executives for **real-time decision making**.
+- Developed an Android app with **500+ downloads**, optimizing device performance.
+
+---
+
+## 🌐 Let’s Connect
+Feel free to reach out and discuss data analysis, app development, or innovative tech ideas:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-goncalves-souto)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorGSoutoXP)
+- 📧 **Email**: victorgsouto20@gmail.com
