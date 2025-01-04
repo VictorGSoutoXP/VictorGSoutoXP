@@ -96,7 +96,7 @@ A lightweight **Android app** focused on optimizing device performance by managi
 ---
 
 ## 🎯 Fun Facts
-- I enjoy hiking and photography in my free time. 🥾📸
+- I enjoy play in my free time. 
 
 ---
 
