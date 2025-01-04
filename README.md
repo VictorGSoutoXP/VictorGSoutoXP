@@ -1,5 +1,11 @@
 # 👋 Hello, I'm Victor Souto!
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=VictorGSoutoXP)  
+![GitHub Followers](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)  
+
+---
+
 ## 🧑‍💻 About Me
 I am a **Data Analyst** with a background in **Software Engineering** and **Statistics**, based in Jundiaí, São Paulo. My work focuses on providing actionable insights by analyzing data across multiple business areas, such as **Accounting**, **Finance**, and **Tax**. I help the executive board make informed decisions through dashboards, predictive models, and comprehensive reports.
 
@@ -63,7 +69,7 @@ A lightweight **Android app** focused on optimizing device performance by managi
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGSoutoXP&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGSoutoXP&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGSoutoXP&layout=compact&theme=radical)
 
 ---
@@ -83,9 +89,15 @@ A lightweight **Android app** focused on optimizing device performance by managi
 ---
 
 ## 🎯 Achievements
-- Increased business efficiency by **85%** through predictive analytics.
+- Increased business efficiency by **35%** through predictive analytics.
 - Designed a Power BI dashboard adopted by executives for **real-time decision making**.
 - Developed an Android app with **500+ downloads**, optimizing device performance.
+
+---
+
+## 🎯 Fun Facts
+- I can solve a Rubik's Cube in under a minute! 🧩
+- I enjoy hiking and photography in my free time. 🥾📸
 
 ---
 
