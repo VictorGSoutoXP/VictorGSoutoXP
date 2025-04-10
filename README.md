@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Victor Souto!
 
-![Feito com ❤️ e dados](https://img.shields.io/badge/feito%20com-dados%20e%20café-blue)
+
 ![Seguidores no GitHub](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
 ![Estrelas no GitHub](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)
-
+![Feito com ❤️ e dados](https://img.shields.io/badge/feito%20com-dados%20e%20café-blue)  
 ---
 
 ## 🧑‍💻 Sobre mim
