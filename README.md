@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Victor Souto!
 
-![Visualizações do Perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/VictorGSoutoXP&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visualiza%C3%A7%C3%B5es&edge_flat=false)  
+![Seguidores no GitHub](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
+![Estrelas no GitHub](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)
+
 ![Seguidores no GitHub](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
 ![Estrelas no GitHub](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)
 
