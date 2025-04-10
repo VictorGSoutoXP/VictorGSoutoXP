@@ -38,25 +38,6 @@ Recently, I have been exploring **mobile application development**, combining my
 
 ---
 
-## 📂 Featured Projects
-### 📊 Business Intelligence Dashboard
-📸 **Screenshot:**
-![Dashboard Screenshot](https://via.placeholder.com/800x400)
-
-🔗 **Link**: [Power BI Dashboard for Business Operations](https://github.com/your-repo-link)  
-An end-to-end BI solution integrating data from Accounting, Finance, and Tax systems to provide real-time KPIs for executives.
-
----
-
-### 📱 Mobile Application - *Ligeiro*
-📸 **App Preview:**
-![App Demo GIF](https://via.placeholder.com/400x600)
-
-🔗 **Link**: [Ligeiro App Repository](https://github.com/your-repo-link)  
-A lightweight **Android app** focused on optimizing device performance by managing memory, clearing cache, and enhancing app permissions.
-
----
-
 ## 🏆 Certifications
 - [Microsoft Certified: Data Analyst Associate](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
 - Google Data Analytics Professional Certificate
