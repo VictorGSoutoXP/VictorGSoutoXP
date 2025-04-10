@@ -3,9 +3,6 @@
 ![Seguidores no GitHub](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
 ![Estrelas no GitHub](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)
 
-![Seguidores no GitHub](https://img.shields.io/github/followers/VictorGSoutoXP?style=social)  
-![Estrelas no GitHub](https://img.shields.io/github/stars/VictorGSoutoXP?style=social)
-
 ---
 
 ## 🧑‍💻 Sobre mim
