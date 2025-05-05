@@ -7,9 +7,9 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-Sou **Analista de Dados** com formação em **Engenharia de Software** e **Estatística**, atuando em Jundiaí, São Paulo. Meu trabalho é transformar dados em insights acionáveis, atendendo áreas como **Contabilidade**, **Financeiro** e **Fiscal**. Auxilio a diretoria na tomada de decisões através de dashboards, modelos preditivos e relatórios completos.
+Sou Analista de Dados com formação em Engenharia de Software e Estatística, atuando em Jundiaí, São Paulo. Transformo dados em decisões estratégicas, atendendo áreas como Contabilidade, Financeiro e Fiscal com dashboards, modelos preditivos e relatórios analíticos.
 
-Atualmente, também estou explorando o desenvolvimento de **aplicativos mobile**, unindo minha expertise em dados com tecnologias inovadoras para criar soluções com impacto real. Meu objetivo é crescer como **desenvolvedor mobile**, combinando dados e tecnologia para resolver problemas do mundo real.
+Atualmente, também me dedico ao desenvolvimento de aplicativos mobile, unindo minha experiência em dados com tecnologias modernas para criar soluções práticas e inteligentes.
 
 ---
 
