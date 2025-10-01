@@ -1,80 +1,101 @@
-Victor G. Souto — Estatística, Ciência de Dados e Engenharia de Software
+Victor G. Souto — Statistics, Data Science & Software Engineering
 
-Jundiaí, SP • Estatística | Modelagem Probabilística | Séries Temporais | ML
-E-mail: victorgsouto20@gmail.com
- • LinkedIn
- • GitHub
+Jundiaí, SP • Statistics | Probabilistic Modeling | Time Series | ML
+Email: victorgsouto20@gmail.com
+ • LinkedIn: in/victor-goncalves-souto
+ • GitHub: @VictorGSoutoXP
 
-Sumário Executivo
+Executive Summary
 
-Profissional com base sólida em Estatística e Engenharia de Software, atuando no desenho de soluções analíticas ponta a ponta: da aquisição e engenharia de dados à modelagem, validação e implantação em produção. Enfoque em:
+Statistician and software engineer designing end-to-end analytical solutions: from data acquisition and engineering to modeling, validation, and production deployment. Focus areas:
 
-Previsão e inferência com séries temporais, modelos estruturais e métodos bayesianos;
+Forecasting and inference with time-series, structural models, and Bayesian methods;
 
-Medição de incerteza e avaliação rigorosa de desempenho (backtesting, calibração, testes de hipótese);
+Uncertainty quantification and rigorous performance evaluation (backtesting, calibration, hypothesis testing);
 
-Soluções escaláveis com integração a pipelines e aplicações (incluindo mobile) quando necessário ao produto.
+Scalable solutions integrated into pipelines and applications (including mobile) when needed for the product.
 
-Enfoque Estatístico e de Modelagem
-Séries Temporais
+Statistical & Modeling Focus
+Time Series
 
-Modelos clássicos: ARIMA/SARIMA (auto_arima e grid), ETS/Holt–Winters, Theta, UCM/Estado-Espaço, SARIMAX (exógenas), VAR/VARMAX quando multivariado.
+Classical models: ARIMA/SARIMA (auto_arima and grid search), ETS/Holt–Winters, Theta, State-Space/UCM, SARIMAX (exogenous regressors), and VAR/VARMAX for multivariate settings.
 
-Volatilidade: ARCH/GARCH/EGARCH para dinâmica condicional de variância.
+Volatility: ARCH/GARCH/EGARCH for conditional variance dynamics.
 
-Diagnóstico: estacionariedade (ADF, KPSS), autocorrelação (ACF/PACF), Ljung–Box, quebras de regime, heteroscedasticidade.
+Diagnostics: stationarity (ADF, KPSS), autocorrelation (ACF/PACF), Ljung–Box, regime shifts, and heteroskedasticity.
 
-Validação temporal: rolling-origin/expanding window, previsão 1-step e multi-step, walk-forward.
+Temporal validation: rolling-origin / expanding windows, one-step-ahead and multi-step, walk-forward evaluation.
 
-Métricas: SMAPE, MAPE robusto, WMAPE, MAE/RMSE, acurácia direcional; critérios de informação AIC/BIC quando aplicável.
+Metrics: SMAPE, robust MAPE, WMAPE, MAE/RMSE, directional accuracy; information criteria AIC/BIC where applicable.
+Typical transformation: log-price 
+𝑦
+𝑡
+=
+log
+⁡
+(
+𝑝
+𝑡
+)
+y
+t
+	​
 
-Inferência Bayesiana e Previsão Probabilística
+=log(p
+t
+	​
 
-Prophet (tendência+sazonalidade; posterior e intervalos nativos), priorização de intervalos de previsão e calibração (ex.: sharpness vs reliability).
+) for variance stabilization and log-normal interval construction.
 
-Combinação de modelos (Ensemble): ponderação por erro fora da amostra e acurácia direcional; trimmed ensembles.
+Bayesian Inference & Probabilistic Forecasting
 
-Quantificação de incerteza: projeção de volatilidade no espaço log-preço; IC lognormais e checagens de cobertura.
+Prophet (trend + seasonality; posterior and native intervals); emphasis on forecast intervals and calibration (e.g., reliability vs. sharpness).
 
-Econometria e Aprendizado
+Model combination (ensembles): weights driven by out-of-sample error and directional accuracy; trimmed ensembles to reduce tail risk.
 
-Regressão (GLM/GAM), efeitos fixos/aleatórios, cointegração (Johansen), VAR/VECM quando apropriado.
+Uncertainty quantification: propagate forecast volatility in log space; log-normal confidence intervals with empirical coverage checks.
 
-ML supervisionado para previsão tabular via feature lags, janelas móveis e gradiente impulsionado (XGBoost/LightGBM).
+Econometrics & Learning
 
-Causalidade (quando pertinente): controles sintéticos, diff-in-diff, séries temporais causais.
+Regression: GLM/GAM, fixed/random effects; cointegration (Johansen), VAR/VECM when appropriate.
 
-Engenharia de Dados e Software
+Supervised ML for forecasting: lag features, rolling windows, and gradient boosting (XGBoost/LightGBM).
 
-Linguagens/stack: Python (NumPy, Pandas, SciPy, statsmodels, pmdarima, arch, Prophet), SQL, Power BI.
+Causality (when relevant): synthetic controls, difference-in-differences, and causal time-series designs.
 
-Pipelines: orquestração, versionamento de dados e modelos, logs e monitoring (desvio de dados, drift).
+Data Engineering & Software
 
-Aplicações: integração de modelos a serviços/APIs e apps mobile quando a experiência do usuário é parte do produto.
+Languages/stack: Python (NumPy, Pandas, SciPy, statsmodels, pmdarima, arch, Prophet), SQL, Power BI.
 
-Experiência Aplicada (seleção)
+Pipelines: orchestration, data/model versioning, logging and monitoring (data drift, concept drift).
 
-Forecast operacional/financeiro com exógenas (mercado, on-chain, macro), cenários e stress tests.
+Applications: integration of models into services/APIs and mobile apps when user experience is part of the product.
 
-Sistemas de previsão probabilística com backtesting e monitoramento de cobertura dos intervalos.
+Selected Applied Experience
 
-Dashboards executivos com métricas de desempenho do modelo, decomposição e explicabilidade.
+Operational/financial forecasting with exogenous drivers (market, on-chain, macro), scenario analysis, and stress testing.
 
-Boas Práticas e Padrões
+Probabilistic forecasting systems with backtesting and interval coverage monitoring.
 
-Backtest honesto: particionamento temporal, sem look-ahead.
+Executive dashboards showing model performance, decomposition, and explainability.
 
-Diagnóstico antes de modelar: testes de hipótese, análise residual, estabilidade de parâmetros.
+Practices & Standards
 
-Simplicidade antes de complexidade: começar por modelos interpretáveis e adicionar complexidade onde há ganho comprovado.
+Honest backtesting: temporal splits without look-ahead.
 
-Documentação e reprodutibilidade: ambientes declarativos, seed controlada, relatórios automatizados.
+Diagnostics before modeling: hypothesis tests, residual analysis, parameter stability.
 
-Certificações
+Simplicity first: start with interpretable baselines and add complexity where it yields proven gains.
+
+Documentation & reproducibility: declarative environments, controlled seeds, automated reporting.
+
+Certifications
 
 Microsoft Certified: Data Analyst Associate
 
 Google Data Analytics Professional Certificate
+
+AWS Certified Cloud Practitioner
 
 AWS Certified Cloud Practitioner
 ---
@@ -86,22 +107,22 @@ AWS Certified Cloud Practitioner
 
 ---
 
-Pesquisa e Interesses Atuais
+Research & Current Interests
 
-Nowcasting e séries de alta frequência;
+Nowcasting and high-frequency time series;
 
-Regime switching e detecção de quebras;
+Regime switching and structural break detection;
 
-Forecasts probabilísticos calibrados (CRPS, PIT, coverage);
+Calibrated probabilistic forecasts (CRPS, PIT, coverage);
 
-Integração de modelos em produtos com métricas de negócio e monitoração de drift.
+Model-to-product integration with business metrics and drift monitoring.
 
-Contato
+Contact
 
-E-mail: victorgsouto20@gmail.com
+Email: victorgsouto20@gmail.com
 
 LinkedIn: in/victor-goncalves-souto
 
 GitHub: @VictorGSoutoXP
 
-“O objetivo não é adivinhar o futuro, mas produzir distribuições previsíveis, testáveis e úteis para decisão sob incerteza.”
+“The goal is not to guess the future, but to produce predictive, testable distributions that inform decision-making under uncertainty.”
