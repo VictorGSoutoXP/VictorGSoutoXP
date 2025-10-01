@@ -94,8 +94,4 @@ Contact
 
 Email: victorgsouto20@gmail.com
 
-LinkedIn: in/victor-goncalves-souto
-
-GitHub: @VictorGSoutoXP
-
 “The goal is not to guess the future, but to produce predictive, testable distributions that inform decision-making under uncertainty.”
