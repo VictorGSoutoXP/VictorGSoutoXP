@@ -98,14 +98,6 @@ Google Data Analytics Professional Certificate
 AWS Certified Cloud Practitioner
 
 AWS Certified Cloud Practitioner
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGSoutoXP&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGSoutoXP&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VictorGSoutoXP&theme=radical)
-
----
 
 Research & Current Interests
 
