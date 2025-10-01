@@ -1,49 +1,82 @@
-# Hi, I'm Victor Souto
+Victor G. Souto — Estatística, Ciência de Dados e Engenharia de Software
 
----
+Jundiaí, SP • Estatística | Modelagem Probabilística | Séries Temporais | ML
+E-mail: victorgsouto20@gmail.com
+ • LinkedIn
+ • GitHub
 
-## 👨‍💻 About Me
-I'm a **Data Analyst** with a background in **Software Engineering** and **Statistics**, based in Jundiaí, São Paulo. I specialize in transforming data into strategic decisions by building dashboards, predictive models, and analytical reports.
+Sumário Executivo
 
-I'm also developing **mobile applications**, combining my data expertise with modern technologies to deliver practical and intelligent solutions.
+Profissional com base sólida em Estatística e Engenharia de Software, atuando no desenho de soluções analíticas ponta a ponta: da aquisição e engenharia de dados à modelagem, validação e implantação em produção. Enfoque em:
 
----
+Previsão e inferência com séries temporais, modelos estruturais e métodos bayesianos;
 
-## 🔧 Skills & Experience
+Medição de incerteza e avaliação rigorosa de desempenho (backtesting, calibração, testes de hipótese);
 
-### Data Analysis & Business Intelligence
-- **Technologies**:  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Soluções escaláveis com integração a pipelines e aplicações (incluindo mobile) quando necessário ao produto.
 
-- **What I Do**:
-  - Build **interactive dashboards** and **predictive models** for business forecasting  
-  - Design and maintain **data pipelines** to handle large-scale datasets  
-  - Partner with leadership teams to enable **data-driven decision-making**  
+Enfoque Estatístico e de Modelagem
+Séries Temporais
 
-### Mobile Development
-- **Technologies**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Modelos clássicos: ARIMA/SARIMA (auto_arima e grid), ETS/Holt–Winters, Theta, UCM/Estado-Espaço, SARIMAX (exógenas), VAR/VARMAX quando multivariado.
 
-- **Focus Areas**:
-  - Develop **mobile apps** that enhance user experience and optimize processes  
-  - Integrate **real-time analytics** into mobile solutions  
-  - Explore advanced **UI/UX design** for seamless usability  
+Volatilidade: ARCH/GARCH/EGARCH para dinâmica condicional de variância.
 
----
+Diagnóstico: estacionariedade (ADF, KPSS), autocorrelação (ACF/PACF), Ljung–Box, quebras de regime, heteroscedasticidade.
 
-## 🏅 Certifications
-- [Microsoft Certified: Data Analyst Associate](https://learn.microsoft.com/en-us/certifications/)  
-- Google Data Analytics Professional Certificate  
-- AWS Certified Cloud Practitioner  
+Validação temporal: rolling-origin/expanding window, previsão 1-step e multi-step, walk-forward.
 
-![Microsoft](https://img.shields.io/badge/Microsoft-Certified-blue?style=flat-square)
-![Google](https://img.shields.io/badge/Google-Data_Analytics-blue?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Certified-orange?style=flat-square)
+Métricas: SMAPE, MAPE robusto, WMAPE, MAE/RMSE, acurácia direcional; critérios de informação AIC/BIC quando aplicável.
 
+Inferência Bayesiana e Previsão Probabilística
+
+Prophet (tendência+sazonalidade; posterior e intervalos nativos), priorização de intervalos de previsão e calibração (ex.: sharpness vs reliability).
+
+Combinação de modelos (Ensemble): ponderação por erro fora da amostra e acurácia direcional; trimmed ensembles.
+
+Quantificação de incerteza: projeção de volatilidade no espaço log-preço; IC lognormais e checagens de cobertura.
+
+Econometria e Aprendizado
+
+Regressão (GLM/GAM), efeitos fixos/aleatórios, cointegração (Johansen), VAR/VECM quando apropriado.
+
+ML supervisionado para previsão tabular via feature lags, janelas móveis e gradiente impulsionado (XGBoost/LightGBM).
+
+Causalidade (quando pertinente): controles sintéticos, diff-in-diff, séries temporais causais.
+
+Engenharia de Dados e Software
+
+Linguagens/stack: Python (NumPy, Pandas, SciPy, statsmodels, pmdarima, arch, Prophet), SQL, Power BI.
+
+Pipelines: orquestração, versionamento de dados e modelos, logs e monitoring (desvio de dados, drift).
+
+Aplicações: integração de modelos a serviços/APIs e apps mobile quando a experiência do usuário é parte do produto.
+
+Experiência Aplicada (seleção)
+
+Forecast operacional/financeiro com exógenas (mercado, on-chain, macro), cenários e stress tests.
+
+Sistemas de previsão probabilística com backtesting e monitoramento de cobertura dos intervalos.
+
+Dashboards executivos com métricas de desempenho do modelo, decomposição e explicabilidade.
+
+Boas Práticas e Padrões
+
+Backtest honesto: particionamento temporal, sem look-ahead.
+
+Diagnóstico antes de modelar: testes de hipótese, análise residual, estabilidade de parâmetros.
+
+Simplicidade antes de complexidade: começar por modelos interpretáveis e adicionar complexidade onde há ganho comprovado.
+
+Documentação e reprodutibilidade: ambientes declarativos, seed controlada, relatórios automatizados.
+
+Certificações
+
+Microsoft Certified: Data Analyst Associate
+
+Google Data Analytics Professional Certificate
+
+AWS Certified Cloud Practitioner
 ---
 
 ## 📊 GitHub Stats
@@ -53,20 +86,22 @@ I'm also developing **mobile applications**, combining my data expertise with mo
 
 ---
 
-## 🌱 Currently Learning
-- **Advanced Data Analysis**: Machine Learning & Predictive Modeling  
-- **Mobile Development**: Kotlin  
-- **Cloud Technologies**: Azure & AWS for scalable solutions  
+Pesquisa e Interesses Atuais
 
----
+Nowcasting e séries de alta frequência;
 
-## 🎯 Future Goals
-- Build a **cross-platform app** with real-time analytics  
-- Deepen expertise in **Machine Learning** for advanced forecasting  
+Regime switching e detecção de quebras;
 
----
+Forecasts probabilísticos calibrados (CRPS, PIT, coverage);
 
-## 🌐 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-goncalves-souto)  
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorGSoutoXP)  
-- 📧 **Email**: victorgsouto20@gmail.com  
+Integração de modelos em produtos com métricas de negócio e monitoração de drift.
+
+Contato
+
+E-mail: victorgsouto20@gmail.com
+
+LinkedIn: in/victor-goncalves-souto
+
+GitHub: @VictorGSoutoXP
+
+“O objetivo não é adivinhar o futuro, mas produzir distribuições previsíveis, testáveis e úteis para decisão sob incerteza.”
