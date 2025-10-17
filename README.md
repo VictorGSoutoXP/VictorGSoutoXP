@@ -1,9 +1,6 @@
 Victor G. Souto — Statistics, Data Science & Software Engineering
 
-Jundiaí, SP • Statistics | Probabilistic Modeling | Time Series | ML
-Email: victorgsouto20@gmail.com
- • LinkedIn: in/victor-goncalves-souto
- • GitHub: @VictorGSoutoXP
+ • Statistics | Probabilistic Modeling | Time Series | ML
 
 Executive Summary
 
