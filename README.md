@@ -87,8 +87,4 @@ Calibrated probabilistic forecasts (CRPS, PIT, coverage)
 
 Model-to-product integration with business metrics and drift monitoring
 
-Contact
-
-Email: victorgsouto20@gmail.com
-
 “The goal is not to guess the future, but to produce predictive, testable distributions that inform decision-making under uncertainty.”
